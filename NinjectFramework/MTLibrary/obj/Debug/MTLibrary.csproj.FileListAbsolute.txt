@@ -1,0 +1,9 @@
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\bin\Debug\MTLibrary.dll.config
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\bin\Debug\MTLibrary.dll
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\bin\Debug\MTLibrary.pdb
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\bin\Debug\EntityFramework.dll
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\bin\Debug\EntityFramework.xml
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\obj\Debug\MTLibrary.dll
+c:\users\thanh\onedrive\documents\visual studio 2015\Projects\NinjectFramework\MTLibrary\obj\Debug\MTLibrary.pdb
